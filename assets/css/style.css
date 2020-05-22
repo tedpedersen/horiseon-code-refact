@@ -1,9 +1,10 @@
+/*reset styles*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*generic styles*/
 body {
     background-color: #d9dcd6;
 }
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*hero styles*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*benefit styles*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*seo styles*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*rep styles*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +152,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*social media styles*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer styles*/
 .footer {
     padding: 30px;
     clear: both;
